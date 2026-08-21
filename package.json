@@ -1,0 +1,17 @@
+{
+  "name": "hsk4-trainer",
+  "private": true,
+  "version": "4.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "@vitejs/plugin-react": "latest"
+  }
+}
